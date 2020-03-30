@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+@import url(https://fonts.googleapis.com/css?family=Black+Ops+One);
+@import url(https://fonts.googleapis.com/css?family=Andada);
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+
+
+
+ 
+ 
+#long {
+	font-weight: bolder;
+	color: rgb(184, 252, 252);
+	font-family: "Press Start 2P";
+
+
+}
+
+.heading{
+	font-weight: bolder;
+	color:#e3e9ff;
+	text-shadow: 2px 3px rgb(76, 68, 68);
+	text-align: center;
+	font-family: "Black Ops One";
+}
+.container {
+	color: rgb(173, 173, 173);
+}
+div {
+	padding: 5px;
+	margin-bottom: 10px;
+	font-family:Andada;
+	font-weight: bold;
+}
+
+.hidden {
+	display: none;
+}
+ 
+
+
